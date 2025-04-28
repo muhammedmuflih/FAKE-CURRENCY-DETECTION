@@ -17,6 +17,7 @@ It leverages data augmentation techniques and transfer learning to achieve good 
 
 ## Dataset
 - Images of real and fake currency notes (Rs. 2000 and Rs. 500 denominations).
+- DATASET:https://www.kaggle.com/datasets/lekhansaathvik/fake-currency-dataset
 - The dataset is divided into:
   - **Training set** (with augmentation)
   - **Validation set**
